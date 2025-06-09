@@ -1,36 +1,42 @@
-countryselection: choose country
-country:
-  one: country
-  many: countries
-  other: countries
-search-placeholder: Type in a country or train operator
-search-button: Search
-footer-love:
-  text: Made with ♥️ in Frankfurt & Cologne
-  aria-label: Made with love in Frankfurt & Cologne
-menu-open: Menu
-menu-close: Close
-general: general
-information-disclaimer-short: The information provided is unofficial and without guarantee. There is no legal connection to FIP or railway companies.
-highlight-important: Important Information
-highlight-inofficial: Unofficial Information
-highlight-tip: Personal Tip
-news-headline: What's new?
-_operator__list_title: Operator supporting FIP
-_country__list_title: Countries
-_news__list_title: News
-updateDate: Last updated
-related: Related Pages
-toc_name: Contents
-_operator__nearby: Neighboring Operators
-toc-backlink: Back to
-editPage: Edit page
-list-disclaimer: Currently, information is not yet available for all countries and operators. You can see the current information status on
-list-disclaimer-link: GitHub
+_operator__list_title: Operators supporting FIP
 anchorLink:
-  copy: Copy link to this section
   copied: Link has been copied to the clipboard
-meta-description:
-  country: Overview of the countries where FIP benefits are available.
-  operator: Overview of the operators providing FIP benefits.
-  news: Latest updates and information about the FIP Guide.
+  copy: Copy link to this section
+country:
+  many: countries
+  one: country
+  other: countries
+countryselection: choose country
+editPage: Edit page
+footer-love:
+  aria-label: Made with love in Frankfurt & Cologne
+  text: Made with ♥️ in Frankfurt & Cologne
+general: general
+highlight:
+  important: Important Information
+  inofficial: Unofficial Information
+  tip: Personal Tip
+home-page-text: FIP Guide Home Page
+information-disclaimer-short: >-
+  The information provided is unofficial and without guarantee. There is no
+  legal connection to FIP or railway companies.
+menu-close: Close
+menu-open: Menu
+navigate-to-country: Navigate to country
+news-headline: What's new?
+news-other: Other News
+related:
+  countries: Related Countries
+  news: Related News
+  operators: Related Operators
+  operators-nearby: Neighboring Operators
+reportError: Report an error
+search-placeholder: Search
+skipToContent: Skip to content
+test: test
+toc_name: Contents
+updateDate: Last updated
+wip: >-
+  This page is still under construction and content may be incomplete. We would
+  be happy if you contribute to improve this page. [More information on
+  GitHub](https://github.com/fipguide/fipguide.github.io/wiki/English).

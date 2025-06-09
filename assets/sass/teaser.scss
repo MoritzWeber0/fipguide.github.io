@@ -3,7 +3,7 @@
     color: var(--link-special);
 
     &:nth-child(-n+3) {
-        @include media-breakpoint-down(lg) {
+        @media (max-width: #{$breakpoint-lg}) {
             margin-bottom: 2rem;
         }
     }
@@ -13,7 +13,7 @@
     margin-bottom: 2.4rem;
     display: flex;
 
-    @include media-breakpoint-down(md) {
+    @media (max-width: #{$breakpoint-md}) {
         flex-flow: wrap;
     }
 
@@ -32,18 +32,4 @@
 
 .m-teaser__headline {
     margin-bottom: .5rem;
-}
-
-.o-stage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.o-stage__searchfield {
-    position: absolute;
-    width: 60%;
-    height: 6rem;
-    background-color: white;
-    border-radius: var(--border-radius-l);
 }

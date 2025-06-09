@@ -1,11 +1,39 @@
 <script>
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  const isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+  let placeholderText = '{{ T "search-placeholder" }}';
+
+  if (!isMobile) {
+    if (isMac) {
+      placeholderText += ' (⌘ + K)';
+    } else {
+      placeholderText += ' (CTRL + K)';
+    }
+  }
+
   window.addEventListener('DOMContentLoaded', (event) => {
-    new PagefindUI({ element: "#search", highlightParam: "highlight", showSubResults: true });
+    new PagefindUI({
+      element: "#search",
+      highlightParam: "highlight",
+      showSubResults: true,
+      translations: {
+        placeholder: placeholderText,
+      }
+    });
+  });
+  document.addEventListener('keydown', (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+      e.preventDefault();
+      const searchElement = document.querySelector('#search input');
+      if (searchElement) {
+        searchElement.focus();
+      }
+    }
   });
 </script>
 
 <section class="o-stage container-fluid">
   {{ $image := resources.Get "images/startpage.webp" }}
-  {{ partial "image.html" (dict "image" $image "loadingLazy" false) }}
+  {{ partial "image.html" (dict "image" $image "eager" true) }}
   <div id="search" class="o-stage__search"></div>
 </section>
