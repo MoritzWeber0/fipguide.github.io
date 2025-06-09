@@ -1,0 +1,43 @@
+name: Warn if PR target branch is not main
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened, ready_for_review]
+
+jobs:
+  warn-non-main-target:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.base.ref != 'main'
+    steps:
+      - name: Warn in PR if base branch is not main
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const baseBranch = context.payload.pull_request.base.ref;
+            const prNumber = context.payload.pull_request.number;
+
+            // Check if a warning comment already exists to avoid duplicates
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+            });
+
+            const warningText = `⚠️ **Warning:** The target branch of this pull request is \`${baseBranch}\`, not \`main\`.
+
+            If you intended to merge to \`main\`, consider updating the base branch.
+
+            > **Note:** If there is already an open pull request for the branch \`${baseBranch}\`, it should be merged first. Otherwise, your new changes will become part of another pull request, which can lead to duplicate reviews or confusion.`;
+
+            const alreadyWarned = comments.some(comment =>
+              comment.body && comment.body.includes('The target branch of this pull request is')
+            );
+
+            if (!alreadyWarned) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body: warningText
+              });
+            }
