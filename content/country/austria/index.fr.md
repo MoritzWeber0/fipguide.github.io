@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Autriche"
-description: "Informations sur les conditions FIP en Autriche et les opérateurs qui proposent des réductions."
+title: "Austria"
+description: "Information about FIP conditions for Austria and which operators offer discounts."
 country: "austria"
 params:
   operators_without_fip:
@@ -17,91 +17,91 @@ params:
     - Salzburger Lokalbahn
 ---
 
-## Informations FIP
+## FIP Information
 
-En Autriche, les trains des [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") sont accessibles avec les billets FIP. Westbahn et RegioJet exploitent également des trains grandes lignes en parallèle avec l’ÖBB, mais ne sont pas utilisables avec des billets FIP. Dans les planificateurs de trajet, ces trains sont abrégés en `IC` ou `WB` (à ne pas confondre avec les `IC` de l’ÖBB).
+In Austria, trains of the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") can be used with FIP tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
 
-Il existe aussi plusieurs opérateurs régionaux de trains locaux qui n’acceptent pas les billets FIP. Ils utilisent souvent les mêmes catégories que l’ÖBB : `RE`, `REX` et `S`. En cas de doute, consultez le site de l’opérateur ou [Bahn.de](https://int.bahn.de/fr/).
+There are also other regional operators of local trains that do not accept FIP tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://int.bahn.de/en).
 
-La [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") est une deuxième compagnie ferroviaire qui accepte les billets FIP en Autriche et en Hongrie. Les coupons FIP GySEV sont principalement destinés à la Hongrie et ne sont valables que de façon limitée sur les lignes GySEV en Autriche.
+The [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") is a second railway company that accepts FIP tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
 
-## Informations générales
+## Interesting
 
-L’Autriche dispose d’un réseau ferroviaire dense, structuré autour de deux lignes principales :
+Austria has a dense rail network, mainly consisting of two main lines:
 
-- **La ligne sud** : de Vienne via Graz vers la Slovénie, Klagenfurt/Villach et l’Italie (dès décembre 2025 via la nouvelle ligne à grande vitesse _Koralmbahn_, auparavant par l’ancienne ligne).
-- **La ligne ouest** : de Vienne via Salzbourg/Innsbruck jusqu’au lac de Constance (Bregenz) et plus loin vers la Suisse (Zurich).
+- **The Southern Railway**: from Vienna via Graz towards Slovenia and Klagenfurt/Villach to Italy (from December 2025 via the new _Koralmbahn_ high-speed line, before via the old route)
+- **The Western Railway**: from Vienna via Salzburg/Innsbruck to Lake Constance (Bregenz) and further to Switzerland (Zurich).
 
-Ces deux lignes sont bien développées, avec une fréquence d’un train toutes les 30 minutes entre les grandes gares. On y trouve aussi de nombreuses lignes secondaires ou pittoresques : la spectaculaire ligne du Tauern (Salzbourg–Villach), ligne de l’Ennstal (Salzbourg–Schladming–Leoben), ou la ligne du Brenner (Munich–Innsbruck–Bolzano–Vérone).
+Both lines are well developed, with trains running every half hour between major stations. There are also many scenic main and branch lines, such as the breathtaking Tauern Railway (Salzburg-Villach), Ennstal Railway (Salzburg-Bischofshofen-Schladming-Leoben), or the Brenner Railway (Munich-Innsbruck-Brenner-Bolzano-Verona).
 
-Un coup de cœur est la Schneebergbahn en Basse-Autriche. Elle n’est pas exploitée par l’ÖBB, mais est accessible avec une réduction FIP 50 %.
+A special highlight is the ride on the Schneebergbahn in Lower Austria, which is not operated by ÖBB but can be used with a FIP 50% reduction.
 
-## Arrivée et points frontières
+## Arrival and Border Points
 
-{{% expander "Points frontières" border %}}
-| Pays | Points frontières |
+{{% expander "Border Points" border %}}
+| Country | Border Points |
 | --- | --- |
-| République tchèque (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
-| Hongrie (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
-| Hongrie (MÁV) | Hegyeshalom (Gr), Sopron |
-| Allemagne (DB) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slovénie (SZ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
-| Slovaquie (ZSR) | Marchegg (Gr), Kittsee (Gr) |
-| Suisse (CFF) | Buchs SG, St. Margrethen |
-| Italie (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| Czech Republic (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
+| Hungary (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
+| Hungary (MÁV) | Hegyshalom (Gr), Sopron |
+| Germany (DB) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slovenia (SZ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
+| Slovakia (ZSR) | Marchegg(Gr), Kittsee(Gr) |
+| Switzerland (SBB) | Buchs SG, St. Margrethen |
+| Italy (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+
 {{% /expander %}}
 
-### République tchèque
+### Czech Republic
 
-Depuis la Tchéquie, des trains transfrontaliers exploités par České dráhy (ČD) peuvent être utilisés avec un billet FIP 50 ou un coupon FIP ČD. Les trains opérés par RegioJet ne sont pas valables. Il existe des liaisons grandes lignes entre Linz et Prague, ainsi que des Railjets entre Vienne et Prague via Brno.
+From the Czech Republic, cross-border trains of Ceske Drahy can be used on various routes. An additional FIP 50 ticket or FIP Coupon from Ceske Drahy is required. Cross-border trains operated by RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
 
-### Allemagne
+### Germany
 
-Entre l’Allemagne et l’Autriche, on trouve plusieurs liaisons régionales et deux grandes lignes principales :
+Between Germany and Austria, there are several regional train connections and two long-distance routes:
 
-- Une ligne `ICE` de Vienne via Linz, Passau, Nuremberg vers Francfort/Cologne (et certains trains jusqu’à Berlin).
-- Des trains `ICE`, `RJ` et `IC` de Munich via Salzbourg vers plusieurs destinations en Autriche.
+- an `ICE` line from Vienna via Linz, Passau, and Nuremberg to Frankfurt/Cologne (and some trains to Berlin)
+- `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria.
 
-Pour la section allemande, un billet FIP DB est requis.
+For the German section, a FIP ticket from DB is required.
 
-### Hongrie
+### Hungary
 
-Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. Sur la ligne Vienne–Budapest via Hegyeshalom, un billet FIP MÁV est nécessaire à partir de la frontière.
-Sinon, un billet FIP GySEV est requis pour les lignes GySEV.
+From Hungary, both cross-border regional trains and Eurocity/Railjet trains can be used. On the Vienna-Budapest route via Hegyeshalom, an additional FIP ticket from MAV is required from the border; in other cases, an additional FIP ticket from GySEV is needed.
 
-### Suisse
+### Switzerland
 
-Depuis l’Autriche, les gares de Buchs SG et St. Margrethen sont accessibles avec des billets FIP 50 ÖBB ou coupons FIP (EuroCity, Railjet, trains locaux). Attention : si vous entrez depuis l’Allemagne, le tronçon Lindau–St. Margrethen est considéré comme un transit via l’Autriche. Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/oebb#validité-des-billets-fip" >}} "Supplément ÖBB") est théoriquement dû avec un coupon FIP — il est donc recommandé d’utiliser un billet FIP 50 pour cette section.
+From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/oebb#validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
 
-### Italie
+### Italy
 
-Outre les liaisons régionales, il existe deux itinéraires internationaux entre l’Autriche et l’Italie :
+Besides regional train connections, there are two international routes from Austria to Italy:
 
-- La ligne du Brenner : Munich – Innsbruck – Bolzano – Vérone.
-- Les Railjets via Tarvisio Boscoverde vers Venise.
+- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona,
+- Railjets via Tarvisio Boscoverde to Venice.
 
-Sur ces trajets, les coupons FIP ÖBB sont valables en Italie, mais un supplément est requis côté italien.
+On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
 
-Il existe aussi des EuroCity via la Slovénie vers Trieste (`EC` 151/134) : \
-entre Villa Opicina et Trieste, le coupon FIP ÖBB est valable, mais un petit supplément s’applique.
+There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
 
-### Slovaquie
+### Slovakia
 
-Deux lignes locales relient la Slovaquie à l’Autriche :
+From Slovakia, there are two local train connections to Austria:
 
-- La plus rapide : Bratislava hl.st. – Marchegg – Vienne*(à partir du 10/10/2025).
-- L’autre : Bratislava Petržalka – Kittsee – Vienne.
+- The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025)
+- The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna.
 
-Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \
-En complément, 4 paires de trains `D` relient Vienne à Bratislava hl.st. (également à partir du 10/10/2025). \
-Ces trains peuvent être utilisés :
-- avec un coupon FIP ÖBB jusqu’à la frontière, ou
-- avec un coupon FIP ZSSK pour l’ensemble du trajet (y compris côté autrichien).
+For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
+Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
+These trains can be used with:
+- ÖBB FIP Coupons up to the border
+- ZSSK FIP Coupone on the entire section (also in Austria)
 
-### Slovénie
+### Slovenia
 
-Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljubljana/Maribor via Spielfeld-Strass (Gr), ainsi que vers Trieste et Zagreb. Un coupon FIP SŽ ou un billet FIP 50 est requis depuis la frontière.
+From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽis required from the border or a FIP 50 ticket must be booked.
 
-## Évaluation FIP
+## FIP Rating
 
-L’Autriche dispose d’une infrastructure exemplaire et de lignes particulièrement pittoresques. La majorité des trains étant opérée par l’ÖBB, il est possible de parcourir une grande partie du pays avec les billets FIP. Cependant, le supplément obligatoire (même sans réservation) sur les trains grandes lignes — 10 € en 2ᵉ classe, 15 € en 1ʳᵉ classe — réduit légèrement l’attrait du FIP en Autriche.
+Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class €15, in 2nd class €10), slightly dampens the FIP experience.
