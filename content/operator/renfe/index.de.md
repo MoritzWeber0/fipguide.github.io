@@ -24,74 +24,74 @@ FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
 FIP Globalpreis: ✅ für reservierungspflichtige Züge außer Avlo
 
-## Zugkategorien und Reservierungen
-
+## Train Categories and Reservations
 {{% highlight important %}}
-Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In anderen Zügen muss in der Regel ein Ticket zum FIP Globalpreis erworben werden.
+Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
 
-### Langstrecke
+### Long distance
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt.
+**Description:** \
+Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
-Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
+International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
 
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 10€ \
-Elige Confort: 13€ \
-Premium: 23,50€
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):**
+- 10€ (Elige Estándar)
+- 13€ (Elige Confort)
+- 23,50€ (Premium)
 {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP:** ⛔ FIP wird nicht anerkannt
+**Description:** \
+Low-cost high-speed trains (up to 300 km/h). \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
 {{% expander "Euromed ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtsscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€ \
-Premium: 23,50€
+**Description:** \
+High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):**
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
+- 23,50€ (Premium)
 {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€
+**Description:** \
+High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):**
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€
+**Description:** \
+Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):**
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** 4€
+**Description:** \
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
+
 
 ### Mittelstrecke
 
@@ -155,24 +155,25 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
     fip_global_fare=true
     reservations="nil"
 %}}
+**FIP Global Fare**
 
-**FIP Globalpreis**
-
-In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
-![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
+Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee.
+![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 {{% /booking %}}
 
 {{% booking id="renfe-ticket-office" /%}}
 
-### Im Zug
+### On the train
 
-Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
+If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
 
-## Ermäßigungen
+## Discounts
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
 
-## Tarifliche Besonderheiten
+## Special Tariff Conditions
+
+### Interruption of Travel
 
 ### Reiseunterbrechung
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
