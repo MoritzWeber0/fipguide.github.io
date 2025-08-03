@@ -12,7 +12,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Summary
 
-- FIP Coupons are not accepted. However, it is possible to purchase discounted FIP tickets at a fixed FIP Global Fare.
+- Und die englische Variante ist auch angepasst, aber die französische fehlt.
 - All trains require reservations.
 
 ## Validity of FIP Tickets
