@@ -194,76 +194,75 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der ÖBB erworben werden.
 
-#### Brenner - Bozen - Verona
+#### Brenner - Bolzano - Verona
+ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+#### Railjet Tarvisio Boscoverde - Venice
 
-#### Railjet Tarvisio Boscoverde - Venedig
+ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+#### Eurocity Trieste
 
-#### Eurocity Triest
-
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60€ für die 2. Klasse und 4,60€ für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
+ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
 ### REX63 (Pamhagen - Neusiedl am See)
 
-Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
+On the REX63 line between Pamhagen and Neusiedl am See, both ÖBB and GySEV FIP Tickets are accepted.
 
-### Lichtenstein
+### Liechtenstein
 
-Die Eisenbahn in Lichtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
+The railway in Liechtenstein is operated by ÖBB. FIP Tickets are valid here under Austrian conditions and without surcharge (Feldkirchen–Buchs SG).
 
-### Wien Flughafen: City Airport Train (CAT)
+### Vienna Airport: City Airport Train (CAT)
 
-FIP Fahrkarten sind im `CAT` City Airport Train zwischen Wien Flughafen und Wien Mitte nicht gültig.
+FIP Tickets are not valid on the `CAT` City Airport Train between Vienna Airport and Vienna Mitte.
 
-FIP-Fahrscheine werden jedoch auf den von der ÖBB betriebenen Nahverkehrszügen der S-Bahn-Linie S7 anerkannt.
+FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 
-Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
+Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
 {{% highlight tip %}}
-Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stunden-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
+If you travel with regular Vienna public transport tickets (e.g., single journeys or 24/48/72-hour tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
 {{% /highlight %}}
 
 ### Schneebergbahn
 
-Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewähnt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
+The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
 ### ÖBB Postbus
 
-FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverkehren (SEV).
+FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
 
 ### IC Bus (ICB)
 
-FIP Fahrkarten sind im IC Bus (ICB) nicht gültig, außer bei Schienenersatzverkehren (SEV) und den folgenden Verbindungen:
+FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
 
 #### Graz - Klagenfurt
 
-Bis Dezember 2025 gelten FIP Fahrscheine auch im IC Bus zwischen Graz und Klagenfurt.
+Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venedig
+#### Klagenfurt/Villach - Udine/Venice
 
-Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung ist verpflichtend und Ticketpreise enthalten.
+Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
 ### Motorail
 
-FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Rabatt ausgeschlossen.
+FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.
 
 ### Autoschleuse Tauerntunnel (ASTB)
 
-Mit einem FIP Freifahrschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
+With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervellach) can be used. The vehicle must be registered to one of the FIP Coupon holders to be transported free of charge. Regular fares apply for accompanying passengers without a FIP Coupon.
 
-FIP 50 Ermäßigungen sind nicht erhältlich.
+FIP 50 discounts are not available.
 
-### Fahrtunterbrechung
+### Journey Interruption
 
-Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
+Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
-### Unterscheidung zwischen Nah- und Fernverkehr
+### Distinction Between Local and Long-Distance
 
-Es findet abgesehen vom Zuschlag zum FIP Freifahrtsschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
+
+## Sources
 
 ## Quellen
-
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
