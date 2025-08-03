@@ -12,8 +12,8 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 
 ## Résumé
 
-- Les coupons FIP ne sont pas acceptés. En revanche, il est possible d’acheter un billet FIP à tarif global fixe.
-- Tous les trains nécessitent une réservation obligatoire.
+- Und die englische Variante ist auch angepasst, aber die französische fehlt.
+- All trains require reservations.
 
 ## Validité des billets FIP
 

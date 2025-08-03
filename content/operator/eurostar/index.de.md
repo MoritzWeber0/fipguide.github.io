@@ -12,8 +12,8 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Zusammenfassung
 
-- Dies ist ein Test für Weblate.
-- Alle Züge sind reservierungspflichtig.
+- Und die englische Variante ist auch angepasst, aber die französische fehlt.
+- All trains require reservations.
 
 ## Gültigkeit FIP Tickets
 
