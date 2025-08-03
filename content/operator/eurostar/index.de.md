@@ -12,7 +12,7 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Zusammenfassung
 
-- FIP Freifahrtsscheine werden nicht akzeptiert. Es ist jedoch möglich vergünstige FIP Tickets zum FIP Globalpreis zu erwerben.
+- Dies ist ein Test für Weblate.
 - Alle Züge sind reservierungspflichtig.
 
 ## Gültigkeit FIP Tickets
