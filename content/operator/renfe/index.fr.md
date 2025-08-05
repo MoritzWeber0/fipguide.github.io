@@ -171,7 +171,7 @@ Si aucun guichet n’est disponible, l’achat est possible à bord (à confirme
 
 Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.
 
-## Conditions tarifaires spécifiques
+## Conditions tarifaires spéciales
 
 ### Interruption de trajet
 
