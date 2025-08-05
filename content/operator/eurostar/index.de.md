@@ -82,7 +82,7 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
 
-Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
+Wenn bei der Buchung eine E-Mail-Adresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
 {{% booking id="uk-mail" /%}}
 
