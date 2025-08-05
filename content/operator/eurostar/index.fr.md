@@ -76,13 +76,13 @@ Lors de la réservation, les prix en euros sont généralement plus avantageux q
 
 ## Achat de billets et réservations
 
-Les billets sont émis exclusivement sous forme numérique (email requis).
+Les billets sont émis exclusivement sous forme numérique (adresse courriel nécessaire).
 
 ### En ligne
 
 Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le [site Eurostar](https://www.eurostar.com/).
 
-Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
+Si vous indiquez une adresse électronique lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
 {{% booking id="uk-mail" /%}}
 
@@ -115,7 +115,7 @@ Impossible d'acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu'à 3 ans inclus: gratuit, mais sans place attribuée. Pas d'autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d'un adulte. [^2]
+Enfants jusqu'à 3 ans inclus : gratuit, mais sans place attribuée. Pas d'autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d'un adulte. [^2]
 
 ## Conditions tarifaires spéciales
 
