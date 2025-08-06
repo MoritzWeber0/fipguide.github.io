@@ -194,76 +194,75 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
-#### Brenner - Bolzano - Vérone
+#### Brenner - Bolzano - Verona
+ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
-Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+#### Railjet Tarvisio Boscoverde - Venice
 
-#### Railjet Tarvisio Boscoverde - Venise
-
-Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Eurocity Trieste
 
-Les coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un coupon FIP SŽ ou un billet FIP 50 est requis.
+ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
-### Ligne REX63 (Pamhagen–Neusiedl am See)
+### REX63 (Pamhagen - Neusiedl am See)
 
-Sur la ligne REX63 entre Pamhagen et Neusiedl am See, les billets FIP ÖBB et GySEV sont acceptés.
+On the REX63 line between Pamhagen and Neusiedl am See, both ÖBB and GySEV FIP Tickets are accepted.
 
 ### Liechtenstein
 
-La ligne ferroviaire au Liechtenstein est exploitée par les ÖBB. Les billets FIP y sont valables selon les conditions autrichiennes et sans supplément (Feldkirchen–Buchs SG).
+The railway in Liechtenstein is operated by ÖBB. FIP Tickets are valid here under Austrian conditions and without surcharge (Feldkirchen–Buchs SG).
 
-### Aéroport de Vienne : City Airport Train (CAT)
+### Vienna Airport: City Airport Train (CAT)
 
-Les billets FIP ne sont pas valables sur le `CAT` City Airport Train entre l’aéroport de Vienne et Wien Mitte.
+FIP Tickets are not valid on the `CAT` City Airport Train between Vienna Airport and Vienna Mitte.
 
-Les coupons FIP sont acceptés sur les trains locaux ÖBB de la ligne S-Bahn S7.
+FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 
-Les guichets ÖBB et `CAT` se trouvent dans le Terminal 3.
+Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
 {{% highlight tip %}}
-Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, trajets simples ou tickets 24/48/72h via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
+If you travel with regular Vienna public transport tickets (e.g., single journeys or 24/48/72-hour tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
 {{% /highlight %}}
 
 ### Schneebergbahn
 
-La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une carte FIP donne droit à une réduction de 50 % sur les billets.
+The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
 ### ÖBB Postbus
 
-Les billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
+FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
 
 ### IC Bus (ICB)
 
-Les billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
+FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
 
 #### Graz - Klagenfurt
 
-Jusqu’en décembre 2025, les billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
+Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venise
+#### Klagenfurt/Villach - Udine/Venice
 
-Des tarifs FIP globaux spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
+Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
-### Trains auto
+### Motorail
 
-Les billets FIP sont valables sur les trains auto ÖBB. Les frais de transport du véhicule sont en supplément et exclus de la réduction FIP.
+FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.
 
 ### Autoschleuse Tauerntunnel (ASTB)
 
-Avec un coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-Obervellach) peut être utilisée. Le véhicule doit être immatriculé au nom d’un des détenteurs du coupon FIP pour être transporté gratuitement. Les passagers accompagnants sans coupon FIP paient le tarif normal.
+With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervellach) can be used. The vehicle must be registered to one of the FIP Coupon holders to be transported free of charge. Regular fares apply for accompanying passengers without a FIP Coupon.
 
-La réduction FIP 50 n’est pas disponible.
+FIP 50 discounts are not available.
 
-### Interruption de trajet
+### Journey Interruption
 
-L’interruption de trajet est possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
-### Distinction entre trains locaux et grandes lignes
+### Distinction Between Local and Long-Distance
 
-À part le supplément pour le coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les billets FIP 50, sont valables sur tous les trains ÖBB.
+Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
 
 ## Sources
 
-[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+## Sources

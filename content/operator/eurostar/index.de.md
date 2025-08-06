@@ -12,8 +12,8 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Zusammenfassung
 
-- Dies ist ein Test für Weblate.
-- Alle Züge sind reservierungspflichtig.
+- Und die englische Variante ist auch angepasst, aber die französische fehlt.
+- All trains require reservations.
 
 ## Gültigkeit FIP Tickets
 
@@ -82,7 +82,7 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
 
-Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
+Wenn bei der Buchung eine E-Mail-Adresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
 {{% booking id="uk-mail" /%}}
 
