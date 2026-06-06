@@ -1,29 +1,29 @@
 ---
+title: BSB
 draft: false
-title: "BSB"
+operator: bsb
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
 aliases:
   - /booking/bsb-ticket-office
 ---
+Dies ist ein Test.
 
 Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
 
 Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
-- BSB (Bodensee-Schiffsbetriebe GmbH)
-- VLB (Vorarlberg Lines Walter Klaus Bodenseeschifffahrt GmbH)
-- SBS (Schweizerische SBS Schifffahrt AG)
-- URh (Schweizerische Schifffahrtsgesellschaft Untersee und Rhein)
+* BSB (Bodensee-Schiffsbetriebe GmbH)
+* VLB (Vorarlberg Lines Walter Klaus Bodenseeschifffahrt GmbH)
+* SBS (Schweizerische SBS Schifffahrt AG)
+* URh (Schweizerische Schifffahrtsgesellschaft Untersee und Rhein)
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
-- Buchungsmöglichkeiten am Ticketschalter und auf der Fähre.
+* FIP 50 und FIP Freifahrtscheine werden akzeptiert.
+* Buchungsmöglichkeiten am Ticketschalter und auf der Fähre.
 
 ## Gültigkeit FIP Tickets
 
@@ -45,8 +45,8 @@ Fähren auf dem Bodensee.
 
 Auf den folgenden Strecken können Autos mitgeführt werden:
 
-- Konstanz/Staad – Meersburg
-- Friedrichshafen – Romanshorn
+* Konstanz/Staad – Meersburg
+* Friedrichshafen – Romanshorn
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 

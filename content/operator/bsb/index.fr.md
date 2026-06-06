@@ -1,12 +1,11 @@
 ---
+title: BSB
 draft: false
-title: "BSB"
+operator: bsb
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
 aliases:
   - /booking/bsb-ticket-office
 ---

@@ -1,36 +1,35 @@
 ---
+title: BSB
 draft: false
-title: "BSB"
+operator: bsb
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
 aliases:
   - /booking/bsb-ticket-office
 ---
 
-BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").
+Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
 
-FIP discounts apply with the following operators:
+Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
 - BSB (Bodensee-Schiffsbetriebe GmbH)
 - VLB (Vorarlberg Lines Walter Klaus Bodenseeschifffahrt GmbH)
 - SBS (Schweizerische SBS Schifffahrt AG)
 - URh (Schweizerische Schifffahrtsgesellschaft Untersee und Rhein)
 
-## Summary
+## Zusammenfassung
 
-- FIP 50 Tickets and FIP Coupons are accepted.
-- Booking options at the Ticket Office and on the ferry.
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
+- Buchungsmöglichkeiten am Ticketschalter und auf der Fähre.
 
-## Validity of FIP Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-## Train Categories and Reservations
+## Kategorien und Reservierungen
 
 {{% train-category
   id="ferry"
@@ -41,59 +40,59 @@ FIP discounts apply with the following operators:
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
-Ferries on Lake Constance.
+Fähren auf dem Bodensee.
 
-On the following routes, cars can be transported:
+Auf den folgenden Strecken können Autos mitgeführt werden:
 
 - Konstanz/Staad – Meersburg
 - Friedrichshafen – Romanshorn
 
-Some ships offer a restaurant or snacks and drinks.
+Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
 {{< highlight important >}}
-FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
+Auf der SBS Fähre zwischen Altnau-Hagnau und Immenstaad werden FIP Ermäßigungen nicht anerkannt.[^3]
 {{< /highlight >}}
 
 {{% /train-category %}}
 
-## Class Categories
+## Klassenkategorien
 
-There is a single class, which can be used with FIP Cards of both 1st and 2nd class.[^1]
+Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Klasse genutzt werden kann.[^1]
 
-## Ticket and Reservation Purchase
+## Ticket- und Reservierungskauf
 
-### On-Site
+### Vor Ort
 
 {{% booking id="bsb-ticket-office" %}}
 {{% /booking %}}
 
-### On the Ferry
+### Auf der Fähre
 
-FIP 50 Tickets can be purchased on the ferry.
+FIP 50 Fahrkarten können auf der Fähre erworben werden.
 
-## Discounts
+## Ermäßigungen
 
-For public fares, children up to 6 years travel free of charge, children between 6 and 16 years receive a 50% discount on the adult fare. From 16 years, the regular adult fare applies.[^1]
+Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 16 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 16 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
 
-All birthday children travel free of charge on their birthday in regular service upon presentation of their original ID card.
-The birthday ticket must be obtained at the sales points before departure.[^2]
+Alle Geburtstagskinder fahren an ihrem Geburtstag im Linienverkehr bei Vorlage des Personalausweises (im Original) kostenfrei.
+Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.[^2]
 
-## Special Tariff Conditions
+## Tarifliche Besonderheiten
 
-### Break of Journey
+### Fahrtunterbrechung
 
-A break of journey is permitted without formalities.[^1]
+Eine Reiseunterbrechung ist ohne Formalitäten gestattet.[^1]
 
-### Transport of vehicles [^1]
+### Mitnahme von Fahrzeugen [^1]
 
-The full regular fare applies for bicycles.
-There is no discount for vehicles between Friedrichshafen and Romanshorn.
+Es gilt der volle reguläre Fahrpreis für Fahrräder.
+Für Fahrzeuge zwischen Friedrichshafen und Romanshorn gibt es keine Ermäßigung.
 
 ### zellerSEEticket (zSEEt)
 
-FIP Card Holders receive a 50% discount on the zellerSEEticket (zSEEt). No other discounts are accepted.[^3]
+FIP-Berechtigte erhalten eine Ermäßigung von 50% auf das zellerSEEticket (zSEEt). Weitere Ermäßigungen werden nicht anerkannt.[^3]
 
-## Sources
+## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
 
