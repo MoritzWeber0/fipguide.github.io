@@ -1,8 +1,11 @@
 ---
-date: "2025-05-16"
+date: 2025-05-16
 draft: false
 title: "Update: Eurostar Preiserhöhung"
-description: "Eurostar erhöht ab 1. Mai 2025 die Preise für FIP-Fahrkarten um 5 €. Unklar ist, ob die Änderung dauerhaft bleibt – aktuelle Infos im Überblick."
+author: Nobody
+description: Eurostar erhöht ab 1. Mai 2025 die Preise für FIP-Fahrkarten um
+  5 €. Unklar ist, ob die Änderung dauerhaft bleibt – aktuelle Infos im
+  Überblick.
 country:
   - belgium
   - netherlands
