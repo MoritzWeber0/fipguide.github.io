@@ -14,9 +14,9 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutsch
 
 ## Zusammenfassung
 
-* FIP 50 und FIP Freifahrtscheine werden akzeptiert
-* Keine Reservierungspflicht im nationalen Verkehr
-* Im Regionalverkehr viele private Betreiber ohne FIP
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
+- Keine Reservierungspflicht im nationalen Verkehr
+- Im Regionalverkehr viele private Betreiber ohne FIP
 
 ## Gültigkeit FIP Tickets
 
@@ -279,8 +279,8 @@ Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwisch
 
 Begleitende Kinder im Alter von 6 bis 14 Jahren dürfen kostenlos mit einem FIP-Inhaber reisen, sofern
 
-* der FIP-Inhaber mindestens 15 Jahre alt ist und
-* über ein gültiges Ticket (z. B. FIP 50 Ticket) oder einen FIP Freifahrtschein verfügt.[^1]
+- der FIP-Inhaber mindestens 15 Jahre alt ist und
+- über ein gültiges Ticket (z. B. FIP 50 Ticket) oder einen FIP Freifahrtschein verfügt.[^1]
 
 Die kostenlos mitreisenden Kinder müssen nicht mit dem begleitenden Erwachsenen verwandt sein.
 
@@ -303,14 +303,14 @@ Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fa
 
 DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
 
-* RE 6: Tübingen - Stuttgart
-* RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-* RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-* RE 12: Tübingen - Stuttgart - Heilbronn
-* RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-* RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-* RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-* RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
 
 ### DB Regio Bayern
 
@@ -341,11 +341,11 @@ Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werde
 
 Es gibt folgende Produktklassen:
 
-* Produktklasse ICE (ehemals Produktklasse A): \
+- Produktklasse ICE (ehemals Produktklasse A): \
   ICE, ICE Sprinter, TGV, RJ, RJX, ECE
-* Produktklasse IC/EC (ehemals Produktklasse B): \
+- Produktklasse IC/EC (ehemals Produktklasse B): \
   IC, EC, D, EN, NJ
-* Produktklasse C: \
+- Produktklasse C: \
   IRE, RE, FEX, MEX, RB, S
 
 ### DB Syltshuttle

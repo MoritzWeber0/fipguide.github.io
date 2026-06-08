@@ -10,13 +10,13 @@ aliases:
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
 ---
-Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
+Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections, but why?
 
 ## Summary
 
-* FIP 50 Tickets and FIP Coupons are accepted
-* No reservation required for domestic travel
-* Many private operators in regional transport do not accept FIP
+- FIP 50 Tickets and FIP Coupons are accepted
+- No reservation required for domestic travel
+- Many private operators in regional transport do not accept FIP
 
 ## Validity of FIP Tickets
 
@@ -280,8 +280,8 @@ For public fares, children up to 6 years travel free, children between 6 and 14 
 
 Accompanying children aged 6 to 14 may travel free with a FIP holder, provided
 
-* the FIP holder is at least 15 years old and
-* has a valid ticket (e.g., FIP 50 Ticket) or a FIP Coupon.[^1]
+- the FIP holder is at least 15 years old and
+- has a valid ticket (e.g., FIP 50 Ticket) or a FIP Coupon.[^1]
 
 Children traveling free do not need to be related to the accompanying adult.
 
@@ -304,14 +304,14 @@ A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Linienn
 
 DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
 
-* RE 6: Tübingen - Stuttgart
-* RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-* RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-* RE 12: Tübingen - Stuttgart - Heilbronn
-* RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-* RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-* RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-* RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
 
 ### DB Regio Bayern
 
@@ -342,11 +342,11 @@ With FIP 50 Tickets, you can flexibly use trains on the same route. However, you
 
 The following product classes exist:
 
-* Product class ICE (formerly product class A): \
+- Product class ICE (formerly product class A): \
   ICE, ICE Sprinter, TGV, RJ, RJX, ECE
-* Product class IC/EC (formerly product class B): \
+- Product class IC/EC (formerly product class B): \
   IC, EC, D, EN, NJ
-* Product class C: \
+- Product class C: \
   IRE, RE, FEX, MEX, RB, S
 
 ### DB Syltshuttle
