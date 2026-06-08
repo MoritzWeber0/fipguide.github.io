@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Czechia"
-country: "czechia"
+title: Czechia
+country: czechia
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -11,7 +11,6 @@ params:
     - Jindřichohradecké místní dráhy (JHMD)
     - Trilex / Die Länderbahn
 ---
-
 ## FIP Information
 
 Czechia is not the easiest country for using FIP, but it is still quite possible to travel with it. The Czech state railway České dráhy ([ČD](/operator/cd "ČD")) is the only FIP operator in the country, but it also operates a large part of the rail network.
@@ -23,6 +22,9 @@ However, note that FIP is no longer valid on all routes operated by ČD. There a
 ## Interesting
 
 Czechia has one of the densest rail networks in the world. It is possible to reach many places in the country by train. Speeds are usually not very high, and there are currently no high-speed lines in the country. Nevertheless, travel comfort is usually good, or there is at least a certain nostalgia in older trains.
+
+- test
+- test2
 
 Prague is considered the center of the rail network, with connections in all directions. The route to Ostrava is probably the most important in the country, served at a high frequency.
 
