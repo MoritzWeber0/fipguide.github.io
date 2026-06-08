@@ -23,6 +23,9 @@ However, note that FIP is no longer valid on all routes operated by ČD. There a
 
 Czechia has one of the densest rail networks in the world. It is possible to reach many places in the country by train. Speeds are usually not very high, and there are currently no high-speed lines in the country. Nevertheless, travel comfort is usually good, or there is at least a certain nostalgia in older trains.
 
+* test
+* test2
+
 Prague is considered the center of the rail network, with connections in all directions. The route to Ostrava is probably the most important in the country, served at a high frequency.
 
 Otherwise, most routes are served hourly or every two hours. Czechia has many scenic routes, often following mountains or rivers, such as from Karlovy Vary to Johanngeorgenstadt, Ceske Budejovice to Cesky Krumlov, or Prague to Usti nad Labem.
