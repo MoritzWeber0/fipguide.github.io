@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Bulgaria"
-country: "bulgaria"
+title: Bulgaria
+country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
 ---
-
 ## FIP Information
 
 In Bulgaria, FIP can be used relatively easily, but online booking options are very limited. The Bulgarian State Railways Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) is currently almost the only passenger rail operator in the country. FIP is accepted here. With a valid FIP Coupon, you only need to buy reservations for reservation-required trains at the ticket office. FIP 50 Tickets can also be purchased at the ticket office. For international journeys, the required tickets are only available at special international ticket counters at major stations.
 
-{{< identify-operator sources="bdz-website,db-website,vagonweb" />}}
+{{< identify-operator sources="bdz-website,db-website,vagonweb,cfr-international-website" />}}
 
 ## Interesting
 
@@ -24,14 +23,12 @@ The route highlights include, on the one hand, the north–south lines running t
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-
 | Country                                                    | Border Points                                                            |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Romania](/country/romania) ([CFR](/operator/cfr))         | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                  |
 | Turkey (TCDD)                                              | Kapikule (fr)                                                            |
 | [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
 | Serbia (SV)                                                | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
-
 {{% /expander %}}
 
 ### Romania

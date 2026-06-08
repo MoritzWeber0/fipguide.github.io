@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Bulgarien"
-country: "bulgaria"
+title: Bulgarien
+country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
 ---
-
 ## FIP Nutzung
 
 In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) ist derzeit fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
@@ -30,7 +29,6 @@ Als Streckenhighlight gelten zum einen die Nord-Süd-Strecken durch das Balkange
 | Türkei (TCDD) | Kapikule (fr) |
 | [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
 | Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
-
 {{% /expander %}}
 
 ### Rumänien
