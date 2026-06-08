@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ČD"
+title: ČD
+operator: cd
 country:
-  - "czechia"
-operator: "cd"
-
+  - czechia
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
