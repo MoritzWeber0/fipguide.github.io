@@ -15,7 +15,7 @@ params:
 
 Czechia is not the easiest country for using FIP, but it is still quite possible to travel with it. The Czech state railway České dráhy ([ČD](/operator/cd "ČD")) is the only FIP operator in the country, but it also operates a large part of the rail network.
 
-However, note that FIP is no longer valid on all routes operated by ČD. There are also some *commercial services* where a supplement must be paid. With a FIP Coupon, all these exceptions must be considered, while FIP 50 Tickets sold by ČD should make it easier to see which trains are valid. Private operators like Arriva or Die Länderbahn do not accept FIP at all, but tickets in Czechia are generally quite affordable.
+However, note that FIP is no longer valid on all routes operated by ČD. There are also some _commercial services_ where a supplement must be paid. With a FIP Coupon, all these exceptions must be considered, while FIP 50 Tickets sold by ČD should make it easier to see which trains are valid. Private operators like Arriva or Die Länderbahn do not accept FIP at all, but tickets in Czechia are generally quite affordable.
 
 {{< identify-operator sources="db-website,cd-website,vagonweb" />}}
 
@@ -23,8 +23,8 @@ However, note that FIP is no longer valid on all routes operated by ČD. There a
 
 Czechia has one of the densest rail networks in the world. It is possible to reach many places in the country by train. Speeds are usually not very high, and there are currently no high-speed lines in the country. Nevertheless, travel comfort is usually good, or there is at least a certain nostalgia in older trains.
 
-* test
-* test2
+- test
+- test2
 
 Prague is considered the center of the rail network, with connections in all directions. The route to Ostrava is probably the most important in the country, served at a high frequency.
 
