@@ -11,6 +11,7 @@ params:
     - Jindřichohradecké místní dráhy (JHMD)
     - Trilex / Die Länderbahn
 ---
+
 ## FIP Nutzung
 
 Tschechien ist nicht das einfachste Land für die Nutzung von FIP, lässt sich jedoch zumindest Stand jetzt immer noch ganz gut damit bereisen. Die tschechische Staatsbahn České dráhy ([ČD](/operator/cd "ČD")) ist der einzige FIP-Anbieter in dem Land, betreibt jedoch auch einen großen Teil des Streckennetzes.
