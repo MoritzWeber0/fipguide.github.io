@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "DB"
+title: DB
+operator: db
 country:
-  - "germany"
-operator: "db"
-
+  - germany
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
 ---
-
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
 
 ## Summary
@@ -23,6 +21,7 @@ Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
@@ -109,6 +108,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
 
 Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -261,8 +261,12 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -271,9 +275,7 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 {{% booking id="db-website" /%}}
 
-{{% booking id="db-website-fip-international"
-    subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
-/%}}
+{{% booking id="db-website-fip-international" subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)." /%}}
 
 ### Telephone
 
@@ -352,15 +354,17 @@ As a rough guide, you can also check in DB Navigator or on the [DB website](http
 {{% /highlight %}}
 
 {{% expander "Example for Transport Associations on Bahn.de" info %}}
+
 In the following example, the selected connection is within the transport association _VRS_:
 
 ![Connection search VRS](search_vrs.webp)
 ![Ticket selection VRS](ticket_vrs.en.webp)
+
 {{% /expander %}}
 
 ### Tariff Distinction between Local and Long-Distance Transport
 
-With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called [_product classes_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
+With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called _[product classes](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
 
 The following product classes exist:
 

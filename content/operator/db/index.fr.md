@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DB"
+title: DB
+operator: db
 country:
-  - "germany"
-operator: "db"
-
+  - germany
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
