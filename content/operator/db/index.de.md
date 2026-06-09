@@ -398,10 +398,6 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig.
 
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
-
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

@@ -399,10 +399,6 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 
 Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended. In long-distance transport, a highlight is that there is usually a restaurant car on every ´ICE´ connection. Although the food is not freshly cooked, the dishes are still very varied.
 
-<!--
-    Personal recommendations and special personal notes for the journey
--->
-
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
