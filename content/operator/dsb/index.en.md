@@ -1,16 +1,14 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
+operator: dsb
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
 ---
-
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
 
 ## Summary
@@ -20,7 +18,8 @@ The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/cou
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon" status="invalid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
@@ -38,7 +37,7 @@ Within Denmark, reservations are possible but not mandatory. For cross-border jo
     reservation_possible=true
 %}}
 
-IntercityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen.
+IntercityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the **main routes** across the country, connecting cities like Aalborg, Aarhus, and Copenhagen.
 
 {{% /train-category %}}
 
@@ -77,6 +76,7 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
     title="Regional Train (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -95,6 +95,7 @@ Trains marked as `RE` are usually DSB operated trains.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -106,29 +107,17 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ### Online
 
-{{% booking id="dsb-website"
-    subtitle="Only for domestic connections"
-/%}}
+{{% booking id="dsb-website" subtitle="Only for domestic connections" /%}}
 
-{{% booking id="dsb-international-website"
-    subtitle="For national and cross-border connections"
-/%}}
+{{% booking id="dsb-international-website" subtitle="For national and cross-border connections" /%}}
 
-{{% booking id="db-website"
-    subtitle="For national and cross-border connections"
-/%}}
+{{% booking id="db-website" subtitle="For national and cross-border connections" /%}}
 
-{{% booking id="oebb-website"
-    subtitle="For national and cross-border connections"
-/%}}
+{{% booking id="oebb-website" subtitle="For national and cross-border connections" /%}}
 
-{{% booking id="db-website-fip-db"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
-/%}}
+{{% booking id="db-website-fip-db" subtitle="Cross-border FIP 50 Tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only." /%}}
 
-{{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP Card)"
-/%}}
+{{% booking id="db-website-fip-international" subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP Card)" /%}}
 
 ### On-Site
 

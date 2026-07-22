@@ -1,16 +1,14 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
+operator: dsb
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
 ---
-
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
 
 ## Résumé
@@ -21,6 +19,7 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.
@@ -77,6 +76,7 @@ Réservation conseillée et généralement obligatoire en été.
     title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -95,6 +95,7 @@ Les trains marqués `RE` sont généralement exploités par DSB.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -106,29 +107,17 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 ### En ligne
 
-{{% booking id="dsb-website"
-    subtitle="Uniquement pour les trajets nationaux"
-/%}}
+{{% booking id="dsb-website" subtitle="Uniquement pour les trajets nationaux" /%}}
 
-{{% booking id="dsb-international-website"
-    subtitle="Pour les trajets nationaux et transfrontaliers"
-/%}}
+{{% booking id="dsb-international-website" subtitle="Pour les trajets nationaux et transfrontaliers" /%}}
 
-{{% booking id="db-website"
-    subtitle="Pour les trajets nationaux et transfrontaliers"
-/%}}
+{{% booking id="db-website" subtitle="Pour les trajets nationaux et transfrontaliers" /%}}
 
-{{% booking id="oebb-website"
-    subtitle="Pour les trajets nationaux et transfrontaliers"
-/%}}
+{{% booking id="oebb-website" subtitle="Pour les trajets nationaux et transfrontaliers" /%}}
 
-{{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
-/%}}
+{{% booking id="db-website-fip-db" subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn." /%}}
 
-{{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)"
-/%}}
+{{% booking id="db-website-fip-international" subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)" /%}}
 
 ### En gare
 
