@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "DB"
+title: DB
 country:
-  - "germany"
-operator: "db"
-
+  - germany
+operator: db
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
 ---
-
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
 
 ## Zusammenfassung
@@ -23,6 +21,7 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutsch
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -257,12 +256,16 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -277,7 +280,11 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" %}}
+{{% booking id="oebb-phone"
+    subtitle="Inkl. Nightjet Buchung"
+    classes.first="6,90 €"
+    classes.second="5,50 €"
+%}}
 Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
@@ -286,7 +293,9 @@ Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb 
 
 ### Vor Ort
 
-{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+%}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
@@ -352,15 +361,17 @@ Als grobe Orientierung kann auch im DB Navigator oder der [Website der DB](https
 {{% /highlight %}}
 
 {{% expander "Beispiel für Verkehrsverbünde auf Bahn.de" info %}}
+
 In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 ![Verbindungssuche VRS](search_vrs.webp)
 ![Ticketauswahl VRS](ticket_vrs.de.webp)
+
 {{% /expander %}}
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte [_Produktklassen_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 
@@ -394,10 +405,6 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig.
-
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
 
 ## Quellen
 
