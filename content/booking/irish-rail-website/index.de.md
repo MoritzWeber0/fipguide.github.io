@@ -1,16 +1,18 @@
 ---
 draft: false
-title: "Irish Rail Website"
-description: "Buchungsinformationen für die Irish Rail Website."
+title: Irish Rail Website
+description: Buchungsinformationen für die Irish Rail Website.
 params:
   classes:
     first: "-"
-    second: "0 € / 2,50 €"
+    second: 0 € / 2.50 €
   fip_50: false
   fip_75: false
   reservations: true
-  booking_link: "https://www.irishrail.ie/en-ie/"
-  type: "website"
+  booking_link: https://www.irishrail.ie/en-ie/
+  type: website
+  fip_global_fare: null
+  additional_info_link: null
 ---
 
 {{% booking-section "reservations" %}}
