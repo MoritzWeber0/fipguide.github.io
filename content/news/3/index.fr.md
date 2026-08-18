@@ -1,10 +1,11 @@
 ---
 date: 2025-03-06
-draft: false
+author: ''
 title: Retrait FIP des chemins de fer finlandais VR
-description: Les chemins de fer finlandais VR quitteront le programme FIP le 1er
-  janvier 2026. Les réductions FIP ne seront plus valables. Contexte et
-  perspectives ici.
+description: Les chemins de fer finlandais VR quitteront le programme FIP le 1er janvier 2026. Les réductions FIP ne seront plus valables. Contexte et perspectives ici.
+country: []
+operator: []
+draft: false
 ---
 
 Les chemins de fer finlandais VR ont annoncé leur retrait du programme FIP à la fin de 2025. Ce retrait était initialement prévu pour 2024 mais a été reporté d’un an. À partir du 01.01.2026, les réductions FIP pour VR ne seront plus disponibles.
