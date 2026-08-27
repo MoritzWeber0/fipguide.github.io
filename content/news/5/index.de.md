@@ -1,22 +1,21 @@
 ---
 date: 2025-06-15
-draft: false
+author: test
 title: Abschaffung DB Familienreservierung
-description: Die Deutsche Bahn schafft ab dem 15. Juni 2025 die
-  Familienreservierung ab. Neue Preise und Einzelreservierungen für alle
-  Reisenden gelten ab sofort.
+description: Die Deutsche Bahn schafft ab dem 15. Juni 2025 die Familienreservierung ab. Neue Preise und Einzelreservierungen für alle Reisenden gelten ab sofort.
 country:
   - germany
 operator:
   - db
+draft: false
 ---
 
 Ab dem 15. Juni 2025 bietet die Deutsche Bahn keine Familienreservierungen mehr an. Bisher war es möglich für 10,40 € in der 2. Klasse bzw. 13 € in der 1. Klasse eine Familienreservierung zu buchen, die für bis zu 5 Personen galt. Zukünftig muss eine eigene Reservierung für jeden Erwachenen und Kind erworben werden. [^1]
 
 Außerdem steigen die Preise für Sitzplatzreservierungen:
 
-1\. Klasse: 6,90 € (bisher 6,50 €) \
-2\. Klasse: 5,90 € (bisher 5,50 €)
+1. Klasse: 6,90 € (bisher 6,50 €) \
+2. Klasse: 5,90 € (bisher 5,50 €)
 
 Informationen zur Reservierungen sind [hier](/booking/db-website "DB Website Buchung") zu finden.
 
