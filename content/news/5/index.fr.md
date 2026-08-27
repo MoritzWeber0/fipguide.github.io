@@ -1,14 +1,13 @@
 ---
 date: 2025-06-15
-draft: false
+author: test
 title: Suppression de la réservation familiale DB
-description: À partir du 15 juin 2025, la Deutsche Bahn ne proposera plus de
-  réservation familiale. Nouveaux tarifs et réservations individuelles pour tous
-  les voyageurs.
+description: À partir du 15 juin 2025, la Deutsche Bahn ne proposera plus de réservation familiale. Nouveaux tarifs et réservations individuelles pour tous les voyageurs.
 country:
   - germany
 operator:
   - db
+draft: false
 ---
 
 À partir du 15 juin 2025, la Deutsche Bahn ne proposera plus de réservations familiales. Auparavant, il était possible de réserver une place familiale pour 10,40 € en 2e classe ou 13 € en 1re classe, couvrant jusqu’à 5 personnes. À l’avenir, une réservation séparée devra être achetée pour chaque adulte et enfant. [^1]
