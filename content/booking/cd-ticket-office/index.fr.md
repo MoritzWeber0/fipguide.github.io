@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ČD
 description: Informations de réservation pour les guichets České dráhy.
 params:
@@ -7,9 +6,15 @@ params:
     first: 35 CZK
     second: 35 CZK
   fip_50: true
+  fip_global_fare: false
+  fip_75: false
   reservations: true
+  booking_link: ''
   additional_info_link: https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/
+  fee: ''
   type: onsite
+  email_templates: null
+draft: false
 ---
 
 {{% booking-section "fip_50" %}}
